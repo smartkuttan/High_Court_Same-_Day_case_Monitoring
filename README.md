@@ -1,5 +1,11 @@
 **Project Name: High_Court_Same_Day_Case_Monitoring BOT - Championing Equitable Legal Processes**
 
+
+![image](https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring/assets/21328399/5ae36173-7d94-4d0a-a25c-04f6f36c28ef)
+
+![image](https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring/assets/21328399/6f3f3a58-6fcc-45e1-bff0-5ffad4a946ef)
+
+
 **Description:**
 Introducing the High_Court_Same_Day_Case_Monitoring BOT, a dynamic Python-powered solution meticulously tailored to scrutinize legal cases within the high court domain. This ingenious bot seamlessly integrates a CAPTCHA solver API client, allowing it to adeptly track instances of opposing parties initiating cases on the very day of filing. At its core, the High_Court_Same_Day_Case_Monitoring BOT is driven by the paramount goal of promptly notifying concerned parties and their legal advisors upon detection of cases filed by the opposition. This proactive stance thwarts potential misuse of legal mechanisms and steadfastly upholds the integral principles of justice.
 
