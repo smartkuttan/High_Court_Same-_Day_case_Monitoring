@@ -73,6 +73,10 @@ Password   = "your-gmail-password";
 
 **SMTP.com**: Provides 500 emails/day for free.
 
+3. Once you have the above credtionals Open the Credentials.xls MS Excel file and enter the variables as shown in the below screenshot 
+
+
+   ![image](https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring/assets/21328399/0b270698-7306-4392-ad9a-95cccbdceb90)
 
 
 
