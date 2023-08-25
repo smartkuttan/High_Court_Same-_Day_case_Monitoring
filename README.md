@@ -3,7 +3,8 @@
 
 ![image](https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring/assets/21328399/5ae36173-7d94-4d0a-a25c-04f6f36c28ef)
 
-![image](https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring/assets/21328399/6f3f3a58-6fcc-45e1-bff0-5ffad4a946ef)
+![image](https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring/assets/21328399/e78168d0-c94e-4379-8fd8-3e74b6311220)
+
 
 
 **Description:**
