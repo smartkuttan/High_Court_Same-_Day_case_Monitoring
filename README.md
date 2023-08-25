@@ -1,4 +1,4 @@
-**Project Name: High_Court_Same_Day_Case_Monitoring BOT - Championing Equitable Legal Processes**
+                 **𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑵𝒂𝒎𝒆: 𝑯𝒊𝒈𝒉_𝑪𝒐𝒖𝒓𝒕_𝑺𝒂𝒎𝒆_𝑫𝒂𝒚_𝑪𝒂𝒔𝒆_𝑴𝒐𝒏𝒊𝒕𝒐𝒓𝒊𝒏𝒈 𝑩𝑶𝑻 - 𝑪𝒉𝒂𝒎𝒑𝒊𝒐𝒏𝒊𝒏𝒈 𝑬𝒒𝒖𝒊𝒕𝒂𝒃𝒍𝒆 𝑳𝒆𝒈𝒂𝒍 𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒆𝒔**
 
 
 ![image](https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring/assets/21328399/5ae36173-7d94-4d0a-a25c-04f6f36c28ef)
@@ -23,18 +23,9 @@ As there is misuse of the same day provision to delay justice, the provision for
 
 - **Upholding Equitable Trials:** The recognition that same-day case filings should be reserved for matters of the utmost urgency, such as those concerning life and death, lies at the heart of this project. It is disconcerting to witness this process abused for cases like transfer petitions that do not merit such immediate attention. Unfortunately, to impede justice and fair proceedings, many parties exploit this legal avenue for their gain, leading to a delay in justice. As the saying goes, "Justice delayed is justice denied." The essence of this project is to present a technological solution to rectify this predicament.
 
-**Current Status and Future Plans:**
-Currently, the code has integrated the Honorable Kerala High Court and the Honorable Supreme Court. We are actively seeking other developers to join this project and add other Honorable High Courts from various states in India into the system. This expansion aims to enhance the coverage and effectiveness of the High_Court_Same_Day_Case_Monitoring BOT.
 
-The High_Court_Same_Day_Case_Monitoring BOT constitutes a noteworthy stride in curbing the misappropriation of legal procedures and fostering an environment characterized by transparency and justice in legal arenas. At its core lies the fundamental belief that every individual is entitled to an impartial and righteous trial, firmly resonating with the sentiment that justice delayed is indeed justice denied.
 
-For inquiries, recommendations, or to be part of this project, please connect with Steaphen Antony Venansious via [ Steve (at) techgeek.co.in ].
-
-- **Developed by Steaphen Antony Venansious:**
-[GitHub Repository Link]
-https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring
-
-Instructions on how to use High_Court_Same_Day_Case_Monitoring BOT
+**Instructions on how to use High_Court_Same_Day_Case_Monitoring BOT**
 
 1.	To  Auto Solve the Captcha the script uses an Captcha solver API Service from https://truecaptcha.org/api.html sign up free on the site and get userid	and apikey
 
@@ -79,6 +70,23 @@ Password   = "your-gmail-password";
    ![image](https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring/assets/21328399/0b270698-7306-4392-ad9a-95cccbdceb90)
 
 
+   4. Save the Credentials.xls file and double click the main.exe file which will run the High courts and Supreme court case monitering bots further you can define the Monitering period in 24 hour time format and whenever the bot detects a case posted in the party name it will send alert the confgiured email
 
+           ![image](https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring/assets/21328399/ced1cc7c-ff40-4ba3-b8d0-fdeb1ddd5e84)
+
+
+      
+
+
+**Current Status and Future Plans:**
+Currently, the code has integrated the Honorable Kerala High Court and the Honorable Supreme Court. We are actively seeking other developers to join this project and add other Honorable High Courts from various states in India into the system. This expansion aims to enhance the coverage and effectiveness of the High_Court_Same_Day_Case_Monitoring BOT.
+
+The High_Court_Same_Day_Case_Monitoring BOT constitutes a noteworthy stride in curbing the misappropriation of legal procedures and fostering an environment characterized by transparency and justice in legal arenas. At its core lies the fundamental belief that every individual is entitled to an impartial and righteous trial, firmly resonating with the sentiment that justice delayed is indeed justice denied.
+
+For inquiries, recommendations, or to be part of this project, please connect with Steaphen Antony Venansious via [ Steve (at) techgeek.co.in ].
+
+- **Developed by Steaphen Antony Venansious:**
+[GitHub Repository Link]
+https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring
 
 
