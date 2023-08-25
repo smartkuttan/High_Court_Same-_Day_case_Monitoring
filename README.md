@@ -1,5 +1,5 @@
-                 **𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑵𝒂𝒎𝒆: 𝑯𝒊𝒈𝒉_𝑪𝒐𝒖𝒓𝒕_𝑺𝒂𝒎𝒆_𝑫𝒂𝒚_𝑪𝒂𝒔𝒆_𝑴𝒐𝒏𝒊𝒕𝒐𝒓𝒊𝒏𝒈 𝑩𝑶𝑻 - 𝑪𝒉𝒂𝒎𝒑𝒊𝒐𝒏𝒊𝒏𝒈 𝑬𝒒𝒖𝒊𝒕𝒂𝒃𝒍𝒆 𝑳𝒆𝒈𝒂𝒍 𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒆𝒔**
-
+            ** 𝑷𝒓𝒐𝒋𝒆𝒄𝒕 𝑵𝒂𝒎𝒆: 𝑯𝒊𝒈𝒉_𝑪𝒐𝒖𝒓𝒕_𝑺𝒂𝒎𝒆_𝑫𝒂𝒚_𝑪𝒂𝒔𝒆_𝑴𝒐𝒏𝒊𝒕𝒐𝒓𝒊𝒏𝒈 𝑩𝑶𝑻 - 𝑪𝒉𝒂𝒎𝒑𝒊𝒐𝒏𝒊𝒏𝒈 𝑬𝒒𝒖𝒊𝒕𝒂𝒃𝒍𝒆 𝑳𝒆𝒈𝒂𝒍 𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒆𝒔
+**
 
 ![image](https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring/assets/21328399/5ae36173-7d94-4d0a-a25c-04f6f36c28ef)
 
@@ -72,7 +72,7 @@ Password   = "your-gmail-password";
 
    4. Save the Credentials.xls file and double click the main.exe file which will run the High courts and Supreme court case monitering bots further you can define the Monitering period in 24 hour time format and whenever the bot detects a case posted in the party name it will send alert the confgiured email
 
-           ![image](https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring/assets/21328399/ced1cc7c-ff40-4ba3-b8d0-fdeb1ddd5e84)
+     ![image](https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring/assets/21328399/0b382f1f-6193-45cf-a488-9f07153a9ce5)
 
 
       
