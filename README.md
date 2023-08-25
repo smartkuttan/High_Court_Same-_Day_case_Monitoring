@@ -26,3 +26,48 @@ For inquiries, recommendations, or to be part of this project, please connect wi
 - **Developed by Steaphen Antony Venansious:**
 [GitHub Repository Link]
 https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring
+
+Instructions on how to use High_Court_Same_Day_Case_Monitoring BOT
+
+1.	To  Auto Solve the Captcha the script uses an Captcha solver API Service from https://truecaptcha.org/api.html sign up free on the site and get userid	and apikey
+
+ ![image](https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring/assets/21328399/a813a37a-05fa-42c6-b5bc-14e094c75ca6)
+
+2. To Send email alerts on detection of a case posted you need to enter your SMTP Server settings in case of gmail
+ Port       = 587;
+Host       = "smtp.gmail.com";
+Username   = "your-email@gmail.com";
+Password   = "your-gmail-password";
+
+ our you can use any Free SMTP Service
+ also here is a list of free SMTP services that  can use:
+
+**SendinBlue**: Offers 300 emails/day for free with SMTP.
+
+**Elastic Email**: Provides 150,000 emails/month for free with SMTP.
+
+**SendGrid**: Offers 100 emails/day for free with SMTP.
+
+**Mailgun**: Provides 5,000 emails/month for free with SMTP.
+
+**SMTP2GO**: Offers 1,000 emails/month for free with SMTP.
+
+**Pepipost**: Provides 30,000 emails/month for free with SMTP.
+
+**Mailjet**: Offers 6,000 emails/month for free with SMTP.
+
+**Yandex.Mail for Domain**: Provides up to 1000 emails/day for free.
+
+**Zoho Mail**: Offers 25,000 emails/month for free.
+
+**GMX Mail**: Provides up to 500 emails/day for free.
+
+**Mailtrap**: Offers a free testing environment for email development.
+
+**SMTP.com**: Provides 500 emails/day for free.
+
+
+
+
+
+
