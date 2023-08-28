@@ -15,7 +15,7 @@ Delayed justice weakens the foundational principle of the rule of law, which dic
 As there is misuse of the same day provision to delay justice, the provision for same-day postings should be reserved exclusively for matters of utmost urgency, such as those pertaining to matters of life and death. It is disheartening to observe the abuse of this process for cases like transfer petitions and other matters that do not warrant such immediate attention.
 
 **Features:**
-- **Real-time Surveillance:** The High_Court_Same_Day_Case_Monitoring BOT vigilantly monitors legal case postings within the Honrable High court arena and The Honrable Supreme court . It expertly identifies situations where opposing parties initiate proceedings against the monitored party on the very same day.
+- **Real-time Surveillance:** The High_Court_Same_Day_Case_Monitoring BOT  monitors legal case postings within the Honrable High court arena and The Honrable Supreme court . It expertly identifies situations where opposing parties initiate proceedings against the monitored party on the very same day.
 
 - **Seamless CAPTCHA Solving:** By seamlessly integrating a CAPTCHA solver API client, the bot navigates websites mandating CAPTCHA verification to access case-related information with effortless precision.
 
