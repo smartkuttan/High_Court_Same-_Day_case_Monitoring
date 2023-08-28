@@ -8,14 +8,14 @@
 
 
 **Description:**
-Introducing the High_Court_Same_Day_Case_Monitoring BOT, a dynamic Python-powered solution meticulously tailored to scrutinize legal cases within the high court domain. This ingenious bot seamlessly integrates a CAPTCHA solver API client, allowing it to adeptly track instances of opposing parties initiating cases on the very day of filing. At its core, the High_Court_Same_Day_Case_Monitoring BOT is driven by the paramount goal of promptly notifying concerned parties and their legal advisors upon detection of cases filed by the opposition. This proactive stance thwarts potential misuse of legal mechanisms and steadfastly upholds the integral principles of justice.
+Introducing the High_Court_Same_Day_Case_Monitoring BOT, a dynamic Python-powered solution  tailored to scrutinize legal cases within the high court domain and supreme court. This  bot seamlessly integrates a CAPTCHA solver API client, allowing it to adeptly track instances of opposing parties initiating cases on the very day of filing. At its core, the High_Court_Same_Day_Case_Monitoring BOT is driven by the paramount goal of promptly notifying concerned parties and their legal advisors upon detection of cases filed by the opposition. This proactive stance thwarts potential misuse of legal mechanisms and steadfastly upholds the integral principles of justice and allows the opposing party to also present their grounds The Author of this project has developed this application as in his persoanl life an unnessary same day posting has cuased more than six months dealy on the ongaing fair trail and deliverance of justice  which is an abuse of the legal process 
 
 Delayed justice weakens the foundational principle of the rule of law, which dictates that laws are applied consistently and promptly. When justice is delayed, it undermines the integrity of the legal system itself. Also, delays in legal proceedings can lead to a situation where the affected parties are denied access to necessary remedies. The longer it takes for a case to be resolved, the more difficult it becomes to provide adequate relief to the aggrieved party. This can result in irreparable harm, especially in cases where immediate action is crucial.
 
 As there is misuse of the same day provision to delay justice, the provision for same-day postings should be reserved exclusively for matters of utmost urgency, such as those pertaining to matters of life and death. It is disheartening to observe the abuse of this process for cases like transfer petitions and other matters that do not warrant such immediate attention.
 
 **Features:**
-- **Real-time Surveillance:** The High_Court_Same_Day_Case_Monitoring BOT vigilantly monitors legal case postings within the high court arena. It expertly identifies situations where opposing parties initiate proceedings against the monitored party on the very same day.
+- **Real-time Surveillance:** The High_Court_Same_Day_Case_Monitoring BOT vigilantly monitors legal case postings within the Honrable High court arena and The Honrable Supreme court . It expertly identifies situations where opposing parties initiate proceedings against the monitored party on the very same day.
 
 - **Seamless CAPTCHA Solving:** By seamlessly integrating a CAPTCHA solver API client, the bot navigates websites mandating CAPTCHA verification to access case-related information with effortless precision.
 
@@ -83,9 +83,9 @@ Currently, the code has integrated the Honorable Kerala High Court and the Honor
 
 The High_Court_Same_Day_Case_Monitoring BOT constitutes a noteworthy stride in curbing the misappropriation of legal procedures and fostering an environment characterized by transparency and justice in legal arenas. At its core lies the fundamental belief that every individual is entitled to an impartial and righteous trial, firmly resonating with the sentiment that justice delayed is indeed justice denied.
 
-For inquiries, recommendations, or to be part of this project, please connect with Steaphen Antony Venansious via [ Steve (at) techgeek.co.in ].
+For inquiries, recommendations, or to be part of this project, please connect with Steaphen Antony Venansious via **** [ Steve (at) techgeek.co.in ].****
 
-- **Developed by Steaphen Antony Venansious:**
+**- ** Steaphen Antony Venansious:****
 [GitHub Repository Link]
 https://github.com/smartkuttan/High_Court_Same-_Day_case_Monitoring
 
